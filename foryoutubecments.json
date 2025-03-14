@@ -1,6 +1,6 @@
 [
     {
-        "csv_relative_url": "datasets/refs/heads/main/olist_customers_dataset.csv",
-        "file_name": "olist_customers_dataset.csv"
+        "csv_relative_url": "https://raw.githubusercontent.com/Olaroi/datasets/refs/heads/main/",
+        "file_name": "youtube_comments_with_sentiment.csv"
     },
 ]
